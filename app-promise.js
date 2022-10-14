@@ -39,6 +39,5 @@ axios
       console.log("Unable to connect to the api servers");
     } else {
       console.log(error.message);
-      4;
     }
   });
